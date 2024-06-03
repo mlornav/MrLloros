@@ -1,4 +1,4 @@
-package com.hospital.Mr.Lloros;
+package com.hospital.MrLloros;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
